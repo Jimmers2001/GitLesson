@@ -2,8 +2,7 @@ attendanceList = [["Harry Tan", "tant2", "DarknessUnder"]]
 
 ## add your info here
 attendanceList.append(["Gabriel Jacob", "jacobggit", "????"])
-
-
+attendanceList.append(["Tingyi Tan", "tant", "ttan"])
 
 ## DO NOT CHANGE
 printedList = open("attendanceList.txt", "w") 
